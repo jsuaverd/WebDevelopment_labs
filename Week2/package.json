@@ -1,0 +1,11 @@
+{
+  "name": "comp229-m2022-week2",
+  "version": "0.0.1",
+  "description": "demo project for comp229 in the M2022 semenster at Centennial College",
+  "main": "server.js",
+  "author": "Joan Suaverdez",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
